@@ -1,0 +1,6 @@
+{
+  "name": "ShopPilot",
+  "description": "An AI-powered voice assistant and order management platform for stores that handles Customer ordering (Hinglish/English voice), Store Owner order logs, customizable Inventory pricing catalogs, and instant WhatsApp billing receipts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
